@@ -4,9 +4,10 @@ import { IconChevronLeft, IconChevronRight } from "@tabler/icons-react";
 const images = [
   "/img/ss1.png",
   "/img/ss2.png",
-  "/img/ss3.png",
-  "/img/ss4.png",
-  "/img/ss5.png",
+  "/img/ss3.jpg",
+  "/img/ss4.jpg",
+  "/img/ss5.jpg",
+  "/img/ss6.png",
 ];
 
 export default function Showcase() {
